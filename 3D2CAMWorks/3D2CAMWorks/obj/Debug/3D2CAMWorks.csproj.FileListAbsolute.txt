@@ -1,0 +1,11 @@
+D:\Work\CAM\3D2CAMWorks\3D2CAMWorks\bin\Debug\3D2CAMWorks.exe.config
+D:\Work\CAM\3D2CAMWorks\3D2CAMWorks\bin\Debug\3D2CAMWorks.exe
+D:\Work\CAM\3D2CAMWorks\3D2CAMWorks\bin\Debug\3D2CAMWorks.pdb
+D:\Work\CAM\3D2CAMWorks\3D2CAMWorks\obj\Debug\3D2CAMWorks.csprojResolveAssemblyReference.cache
+D:\Work\CAM\3D2CAMWorks\3D2CAMWorks\obj\Debug\_3D2CAMWorks.Form1.resources
+D:\Work\CAM\3D2CAMWorks\3D2CAMWorks\obj\Debug\_3D2CAMWorks.Properties.Resources.resources
+D:\Work\CAM\3D2CAMWorks\3D2CAMWorks\obj\Debug\3D2CAMWorks.csproj.GenerateResource.Cache
+D:\Work\CAM\3D2CAMWorks\3D2CAMWorks\obj\Debug\3D2CAMWorks.exe
+D:\Work\CAM\3D2CAMWorks\3D2CAMWorks\obj\Debug\3D2CAMWorks.pdb
+D:\Work\CAM\3D2CAMWorks\3D2CAMWorks\obj\Debug\Interop.CAMWORKSLib.dll
+D:\Work\CAM\3D2CAMWorks\3D2CAMWorks\obj\Debug\3D2CAMWorks.csproj.ResolveComReference.cache
